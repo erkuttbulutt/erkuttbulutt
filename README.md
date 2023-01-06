@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning **React js, Redux**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fatihmehmett?tab=repositories](https://github.com/fatihmehmett?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/erkuttbulutt?tab=repositories](https://github.com/erkuttbulutt?tab=repositories)
 
 - 📫 How to reach me **erkutbulut0915@gmail.com**
 
