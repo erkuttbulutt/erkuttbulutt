@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erkut Bulut</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-- 🔭 I'm not working at the moment
+- 🔭 I'm not working at the moment. I'm looking for a job
 
 - 🌱 I'm currently learning **React js, Redux**
 
