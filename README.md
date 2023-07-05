@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/erkuttbulutt?tab=repositories](https://github.com/erkuttbulutt?tab=repositories)
 
-- Some of My Projects
+- 📝 Some of My Projects
 
     <ul>
 
