@@ -1,3 +1,8 @@
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <h1 align="center">Hi 👋, I'm Erkut Bulut</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
