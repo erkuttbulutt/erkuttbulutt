@@ -65,6 +65,13 @@
     </li>
 
     <li>
+    <span><strong>Shopify Landing Page Design Clone</strong> w/ Html, Scss |</span>
+    <span><a href="https://github.com/erkuttbulutt/shopify-landing-page">Repo</a></span>
+    <span>|</span>
+    <span><a href="https://erkuttbulutt.github.io/shopify-landing-page/">Demo</a></span>
+    </li>
+
+    <li>
     <span><strong>Sudoku Mobil App</strong> w/ Flutter |</span>
     <span><a href="https://play.google.com/store/apps/details?id=com.erkutbulut.seviyelisudoku">Demo</a></span>
     </li>
