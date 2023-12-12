@@ -2,10 +2,7 @@
 <h1 align="center">Hi 👋, I'm Erkut Bulut</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 - 🔭 I'm not working at the moment. I'm looking for a job
 
